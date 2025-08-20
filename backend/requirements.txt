@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+anndata
+scanpy
+python-multipart
+pytest
+httpx
